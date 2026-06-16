@@ -13,5 +13,5 @@ jobs:
       - name: Download code
         uses: actions/checkout@v4
 
-      - name: Say hello
+      - name: Say hello MY LOVE
         run: echo "Hello from my pipeline!"
